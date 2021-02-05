@@ -75,6 +75,9 @@
 
   .myavatar {
     border-radius: 50%;
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
   }
 
   .name {
